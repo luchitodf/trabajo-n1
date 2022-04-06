@@ -16,6 +16,6 @@ const definirIngrediente = ing =>{
 
 definirIngrediente(ingredientes);
 
-console.log(pares)
-console.log(impares)
+console.log(`Los elementos pares son: ${pares}`);
+console.log(`Los elementos impares son: ${impares}`);
 
